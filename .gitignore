@@ -6,3 +6,4 @@ bin/*
 tcl/*
 *.pyc
 .cache/*
+pip-selfcheck.json
